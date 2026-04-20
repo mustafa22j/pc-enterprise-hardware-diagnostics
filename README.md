@@ -39,6 +39,12 @@ Structured workflow for diagnosing:
 - Power connector validation
 - BIOS verification after rebuild
 
+## New Case Studies
+
+- TS-02: Network & Device Troubleshooting
+- TS-04: Windows Access Recovery (Advanced)
+- TS-07: Hardware & Network Repair
+
 ---
 
 ## Skills Demonstrated
